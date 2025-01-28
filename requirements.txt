@@ -6,4 +6,4 @@ telebot
 solana
 anchorpy
 solders
-psycopg2-binary  # Use psycopg2-binary for easier installation
+psycopg2-binary
