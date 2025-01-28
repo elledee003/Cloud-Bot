@@ -1,6 +1,6 @@
 dex_api_url: "https://api.dexscreener.com/latest/dex/tokens/"
 rugcheck_api_url: "https://api.rugcheck.xyz/v1/token-analysis"
-database_url: "postgresql://user:password@localhost/dexscreener"
+database_url: "postgresql://cloudcoin:redFalcon1018!@199.244.51.241:5432/dexscreener"
 telegram_bot_token: "7269899424:AAEGC6BKEE8BU-aJCx01OnbdcVfb7y00h1I"  # Enclosed in quotes
 telegram_chat_id: "your_telegram_chat_id"
 bonkbot_command_prefix: "/bonkbot"
