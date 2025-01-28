@@ -1,4 +1,4 @@
-# Cloud-Bot
+# Crypto Trading Bot
 
 This is a Streamlit app for analyzing and trading cryptocurrencies.
 
@@ -11,6 +11,9 @@ This is a Streamlit app for analyzing and trading cryptocurrencies.
 - Streamlit
 - Requests
 - PyYAML
+- SQLAlchemy
+- Telebot
+- Solana (for Phantom Wallet integration)
 
 ## Deployment
 1. Clone this repository.
