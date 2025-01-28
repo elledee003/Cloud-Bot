@@ -1,3 +1,8 @@
 streamlit
 requests
 pyyaml
+sqlalchemy
+telebot
+solana
+anchorpy
+solders
