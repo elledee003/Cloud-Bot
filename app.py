@@ -21,7 +21,7 @@ config = load_config()
 DEXSCREENER_API_URL = config["dex_api_url"]
 RUGCHECK_API_URL = config["rugcheck_api_url"]
 DATABASE_URL = config["database_url"]
-TELEGRAM_BOT_TOKEN = config [7269899424:AAEGC6BKEE8BU-aJCx01OnbdcVfb7y00h1I]
+TELEGRAM_BOT_TOKEN = config ["7269899424:AAEGC6BKEE8BU-aJCx01OnbdcVfb7y00h1I"]
 TELEGRAM_CHAT_ID = config["TheRealJackPotTheBot"]
 BONKBOT_COMMAND_PREFIX = config["bonkbot_command_prefix"]
 
