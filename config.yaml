@@ -1,14 +1,14 @@
 dex_api_url: "https://api.dexscreener.com/latest/dex/tokens/"
 rugcheck_api_url: "https://api.rugcheck.xyz/v1/token-analysis"
 database_url: "postgresql://user:password@localhost/dexscreener"
-telegram_bot_token: "7269899424:AAEGC6BKEE8BU-aJCx01OnbdcVfb7y00h1I"
-telegram_chat_id: "TheRealJackpotTheBot"
+telegram_bot_token: "7269899424:AAEGC6BKEE8BU-aJCx01OnbdcVfb7y00h1I"  # Enclosed in quotes
+telegram_chat_id: "your_telegram_chat_id"
 bonkbot_command_prefix: "/bonkbot"
 
 filters:
-  min_liquidity: 10000  # Minimum liquidity in USD
-  max_price_change: 50  # Maximum 24h price change in percentage
-  fake_volume_threshold: 0.7  # Maximum allowed fake volume ratio (0.7 = 70%)
+  min_liquidity: 10000
+  max_price_change: 50
+  fake_volume_threshold: 0.7
 
 blacklist:
   coins:
